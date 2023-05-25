@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/retrovertigo1981/curso-ecmascript#readme",
   "dependencies": {
-    "live-server": "^1.2.2"
+    "live-server": "^1.2.2",
+    "node-fetch": "^3.3.1"
   }
 }
